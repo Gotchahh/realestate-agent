@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Local files
+*.db
+*.sqlite
+*.tmp
+*.log
+.env
+
+# Sample documents (non vanno in repo pubblico)
+samples/
+*.pdf
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build / Distribution
+build/
+dist/
