@@ -78,8 +78,8 @@ sudo apt-get install tesseract-ocr tesseract-ocr-ita poppler-utils
 ### 2. Clone e dipendenze Python
 
 ```bash
-git clone https://github.com/Gotchahh/casa-agent.git
-cd casa-agent
+git clone https://github.com/Gotchahh/realestate-agent.git
+cd realestate-agent
 python -m venv venv
 # Windows:  venv\Scripts\activate
 # Unix:     source venv/bin/activate
@@ -149,7 +149,7 @@ Il classifier produce JSON libero — i modelli `Visura`/`APE`/`DocumentoIdentit
 
 ## 👤 Autore
 
-**Alberto D'Odorico** — studente ITS AI Developing, lavoro presso [Brainyware](https://brainyware.ai).
+**Alberto D'Odorico** — studente ITS AI Developing.
 GitHub: [@Gotchahh](https://github.com/Gotchahh)
 
 ### Altri progetti portfolio
